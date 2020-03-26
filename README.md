@@ -16,7 +16,7 @@ python3 -m catbutt.doakickflip
 2. Use it via Docker:
 
 ```bash
-docker build --rm -t catbutt .`
+docker build --rm -t catbutt .
 
 docker run --rm -it catbutt
 
